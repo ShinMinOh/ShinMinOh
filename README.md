@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align=center><h2> My tech stack📚</h2>
-<img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white">
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white">
@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <br>
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">  
-<img src="https://img.shields.io/badge/AmazonEC2-FF9900.svg?style=flat&logo=docker&logoColor=white">  
-<img src="https://img.shields.io/badge/CircleCI-343434?style=flat&logo=CircleCI&logoColor=white>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=SonarQube&logoColor=white>
-<img src="https://img.shields.io/badge/Jacoco-CB2029?style=flat&logo=Jacoco&logoColor=white>
+<img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat&logo=docker&logoColor=white">  
+<img src="https://img.shields.io/badge/CircleCI-343434?style=flat&logo=c=CircleCI&logoColor=white>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white>
+<img src="https://img.shields.io/badge/Jacoco-CB2029?style=flat&logo=jacoco&logoColor=white>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <br>
 </div>

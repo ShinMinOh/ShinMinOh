@@ -14,6 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">A passionate Backend developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinminoh&label=Profile%20views&color=0e75b6&style=flat" alt="shinminoh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shinminoh" alt="shinminoh" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinminoh&show_icons=true&locale=en&layout=compact" alt="shinminoh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinminoh&show_icons=true&locale=en" alt="shinminoh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinminoh&" alt="shinminoh" /></p>
 
 <div align=center><h2> My tech stack 📚</h2>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white">

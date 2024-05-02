@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white">
 <img src="https://img.shields.io/badge/Jacoco-CB2029?style=flat&logo=jacoco&logoColor=white">
 <br>
+
+<h2> Notion </h2>
+https://www.notion.so/28beb7adefcc4493b419318f139937c3?pvs=4
 </div>
 
 
